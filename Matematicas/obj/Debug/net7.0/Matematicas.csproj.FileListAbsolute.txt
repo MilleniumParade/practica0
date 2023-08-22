@@ -1,0 +1,15 @@
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.csproj.AssemblyReference.cache
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.AssemblyInfoInputs.cache
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.AssemblyInfo.cs
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.csproj.CoreCompileInputs.cache
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/bin/Debug/net7.0/Matematicas
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/bin/Debug/net7.0/Matematicas.deps.json
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/bin/Debug/net7.0/Matematicas.runtimeconfig.json
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/bin/Debug/net7.0/Matematicas.dll
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/bin/Debug/net7.0/Matematicas.pdb
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.dll
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/refint/Matematicas.dll
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.pdb
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/Matematicas.genruntimeconfig.cache
+/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/Debug/net7.0/ref/Matematicas.dll

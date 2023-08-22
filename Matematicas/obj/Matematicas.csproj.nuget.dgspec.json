@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/Matematicas.csproj": {}
+  },
+  "projects": {
+    "/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/Matematicas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/Matematicas.csproj",
+        "projectName": "Matematicas",
+        "projectPath": "/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/Matematicas.csproj",
+        "packagesPath": "/home/metzi/.nuget/packages/",
+        "outputPath": "/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/metzi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.10, 7.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

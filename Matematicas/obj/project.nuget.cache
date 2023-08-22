@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7eSQOVI5gtRYTkox/2rULUUyt9u4CTmU/fu0Mg/YnGBfrpNfXsCHTgBNfOpb3SRkbDzy3WP0KPP8dwW3KOV18g==",
+  "success": true,
+  "projectFilePath": "/home/metzi/github-classroom/computacion-ciencias/pr-ctica-0-introducci-n-a-c-MilleniumParade/Matematicas/Matematicas.csproj",
+  "expectedPackageFiles": [
+    "/home/metzi/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
